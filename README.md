@@ -1,4 +1,4 @@
-# firebasebasic
+# Flutter & Dart app using Firebase
 
 A new Flutter project.
 
